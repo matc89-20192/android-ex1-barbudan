@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-ex1-barbudan.iml" filepath="$PROJECT_DIR$/android-ex1-barbudan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file:///private/tmp/exercicio1/app/app.iml" filepath="/private/tmp/exercicio1/app/app.iml" />
       <module fileurl="file:///private/tmp/exercicio1/exercicio1.iml" filepath="/private/tmp/exercicio1/exercicio1.iml" />
     </modules>
